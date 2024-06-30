@@ -1,4 +1,4 @@
-# Competição de Programação - Recursos Essenciais
+# Preparação para a Maratona <3 
 
 Este repositório contém informações e recursos essenciais para competições de programação, como a maratona SBC (Sociedade Brasileira de Computação).
 
