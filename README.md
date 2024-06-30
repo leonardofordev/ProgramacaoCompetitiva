@@ -1,4 +1,4 @@
-# Preparação para a Maratona <3 
+# Preparação para a Maratona 
 
 Este repositório contém informações e recursos essenciais para competições de programação, como a maratona SBC (Sociedade Brasileira de Computação).
 
